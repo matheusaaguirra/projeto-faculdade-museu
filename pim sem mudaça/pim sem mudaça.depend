@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1700883093 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\compradeingresso.c
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+
+1700883461 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\obra.c
+	<stdio.h>
+	<string.h>
+	"obra.h"
+
+1700879841 c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\obra.h
+
+1700885125 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"obra.h"
+	<conio.h>
+
+1700885024 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\questionario.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"obra.h"
+	"csv.h"
+
+1700879988 c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\csv.h
+
+1700885441 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\csv.c
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"obra.h"
+	"csv.h"
+
+1700882974 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\gerenciamentoobras.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"obra.h"
+
